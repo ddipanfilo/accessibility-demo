@@ -1,0 +1,14 @@
+{
+  "name": "accessibility-demo",
+  "version": "1.0.0",
+  "description": "Accessibility Demo",
+  "main": "index.js",
+  "scripts": {
+  	"serve": "ws"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "local-web-server": "^2.5.2"
+  }
+}
